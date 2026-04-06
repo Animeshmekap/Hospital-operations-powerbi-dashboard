@@ -67,7 +67,7 @@ This dashboard provides insights into:
 ### Overview Page
 ![Overview](overview_page.png.png)
 ### Doctor Performance Page
-![Doctor Performance](Doctor Performance.png)
+![Doctor Performance](DoctorPerformance.png)
 
 ---
 
